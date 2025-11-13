@@ -1,0 +1,3 @@
+[console_scripts]
+dmonsql = dmonsql.cli.shell:main
+dmonsql-server = dmonsql.network.server:main

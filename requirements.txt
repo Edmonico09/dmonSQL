@@ -1,0 +1,23 @@
+# requirements.txt
+
+# Core dependencies
+numpy>=1.19.0
+
+# Compression (optionnel mais recommandé)
+lz4>=3.0.0
+
+# Chiffrement (optionnel)
+cryptography>=3.4.0
+
+# Pour les tests
+pytest>=6.2.0
+pytest-cov>=2.12.0
+
+# Pour le développement
+black>=21.0
+flake8>=3.9.0
+mypy>=0.910
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
